@@ -1,5 +1,5 @@
 {
-  "name": "@flygon-lite/spine-phaser",
+  "name": "spine-phaser",
   "version": "4.2.45",
   "description": "The official Spine Runtimes for the Phaser.",
   "main": "dist/index.js",
